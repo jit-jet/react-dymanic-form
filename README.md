@@ -19,7 +19,7 @@ A dynamic form builder component built with React. This component allows you to 
 
 1. Clone the repository:
 
-   git clone https://github.com/your-repo/dynamic-form-builder.git
+   git clone https://github.com/jit-jet/react-dymanic-form.git
    cd dynamic-form-builder
 
 2. Install dependencies:
